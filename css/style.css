@@ -1,0 +1,598 @@
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyBoldItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyBlackItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyBlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyBlack.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyBlack.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy XLight";
+  src: url("../fonts/svn/SVN-GilroyXLight.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyXLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyLight.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyMediumItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyMediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyMedium.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyMedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyHeavyItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyHeavyItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyHeavy.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyHeavy.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyBold.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyLightItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyLightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroySemiBold.woff2") format("woff2"), url("../fonts/svn/SVN-GilroySemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyThinItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroyThin.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyThin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy XBold";
+  src: url("../fonts/svn/SVN-GilroyXBoldItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyXBoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-Gilroy.woff2") format("woff2"), url("../fonts/svn/SVN-Gilroy.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy XBold";
+  src: url("../fonts/svn/SVN-GilroyXBold.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyXBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy";
+  src: url("../fonts/svn/SVN-GilroySemiBoldItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroySemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "SVN-Gilroy XLight";
+  src: url("../fonts/svn/SVN-GilroyXLightItalic.woff2") format("woff2"), url("../fonts/svn/SVN-GilroyXLightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Graebenbach";
+  src: url("../fonts/Graebenbach/GraebenbachMono-Black.woff2") format("woff2"), url("../fonts/Graebenbach/GraebenbachMono-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Graebenbach";
+  src: url("../fonts/Graebenbach/GraebenbachMono-Regular.woff2") format("woff2"), url("../fonts/Graebenbach/GraebenbachMono-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Graebenbach";
+  src: url("../fonts/Graebenbach/GraebenbachMono-Bold.woff2") format("woff2"), url("../fonts/Graebenbach/GraebenbachMono-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Graebenbach";
+  src: url("../fonts/Graebenbach/GraebenbachMono-Light.woff2") format("woff2"), url("../fonts/Graebenbach/GraebenbachMono-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Graebenbach";
+  src: url("../fonts/Graebenbach/GraebenbachMono-Medium.woff2") format("woff2"), url("../fonts/Graebenbach/GraebenbachMono-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  box-sizing: border-box;
+  color: #1d1d1b;
+  background: #fff;
+  padding: 0 !important;
+  font-size: 22px;
+  transition: 0.3s all;
+  position: relative;
+  font-family: "SVN-Gilroy";
+  overflow-x: hidden;
+}
+body p, body label, body ul, body li, body a {
+  text-decoration: none !important;
+  transition: 0.2s all;
+  margin-bottom: 0;
+  outline: none !important;
+}
+body a {
+  transition: 0.3s all !important;
+  color: #2E2E2E;
+}
+body a:hover {
+  color: #FF532E;
+}
+body ul {
+  padding: 0;
+  margin: 0;
+}
+body input,
+body button {
+  outline: none !important;
+  box-shadow: none;
+  transition: 0.3s all;
+}
+body .slick-slide {
+  height: auto;
+}
+body .slick-slide img {
+  display: inline;
+}
+body .container {
+  width: 100%;
+  max-width: 1920px;
+  padding: 0 110px;
+}
+body .container-fluid {
+  padding: 0 100px;
+}
+body img {
+  max-width: 100%;
+}
+body .slick-slider {
+  margin-bottom: 0;
+}
+
+.slick-arrow {
+  position: absolute;
+  z-index: 2;
+  top: calc(50% - 25px);
+  width: 50px;
+  height: 40px;
+}
+.slick-arrow.arr-left {
+  left: -55px;
+}
+.slick-arrow.arr-right {
+  right: -55px;
+}
+
+.header-top {
+  background: #efeeec;
+  padding: 20px 0;
+}
+.header-top .translate {
+  font-weight: bold;
+}
+.header-top .translate ul {
+  list-style: none;
+  display: none;
+}
+
+.header-menu {
+  padding: 45px 0;
+  background: #fff;
+}
+
+.content-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 23px;
+}
+.content-menu ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.content-menu ul li {
+  margin-right: 90px;
+}
+.content-menu ul li:Last-child {
+  margin-right: 0;
+}
+.content-menu .h-menu .h-contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+  background: #fab518;
+  padding: 0 30px;
+  border-radius: 70px;
+}
+.content-menu .h-menu .h-contact img {
+  margin-left: 25px;
+}
+
+footer {
+  background: #efeeec;
+}
+
+.fter-top {
+  padding: 60px 0;
+  font-size: 23px;
+  line-height: initial;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.fter-top .left {
+  display: flex;
+}
+.fter-top .left .txt-place {
+  margin-right: 70px;
+}
+.fter-top strong {
+  font-weight: bold;
+}
+.fter-top ul {
+  list-style: none;
+}
+
+.fter-bot {
+  padding: 20px 0 40px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 20px;
+  border-top: 1px solid #c5c4c3;
+}
+.fter-bot a {
+  display: flex;
+  align-items: center;
+}
+.fter-bot ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.fter-bot .social ul li {
+  margin-right: 18px;
+}
+.fter-bot .social ul li:last-child {
+  margin-right: 0;
+}
+.fter-bot .policy ul li {
+  margin-right: 50px;
+}
+.fter-bot .policy ul li:last-child {
+  margin-right: 0;
+}
+
+.btn-main a {
+  display: inline-flex;
+  border: 4px solid #1d1d1b;
+  align-items: center;
+  justify-content: center;
+  border-radius: 70px;
+  font-size: 23px;
+  font-weight: bold;
+  height: 70px;
+  padding: 0 35px;
+}
+.btn-main a img {
+  position: relative;
+  margin-left: 30px;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+.title h2 {
+  margin: 0;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.box-banner-gill {
+  padding: 300px 0 45px 0;
+  position: relative;
+  background: linear-gradient(90deg, rgb(233, 232, 230) 0%, rgb(255, 255, 255) 78%);
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-banner .desc {
+  font-size: 30px;
+  margin: 45px 0 135px 0;
+}
+
+.box-aanbod {
+  padding: 170px 0 0 0;
+}
+
+.tab-aanbod .tab-top {
+  margin-bottom: 115px;
+}
+.tab-aanbod .tab-top a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+  padding: 0 30px;
+  border-radius: 40px;
+}
+.tab-aanbod .tab-top a.active {
+  background: #fab518;
+}
+.tab-aanbod ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.content-tab-aa {
+  position: relative;
+}
+
+.slide-aan {
+  margin: 0 -20px;
+}
+.slide-aan .item-slide {
+  padding: 5px 20px;
+}
+
+.item-aan {
+  background: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(29, 29, 27, 0.17);
+  height: 100%;
+}
+.item-aan .avarta {
+  position: relative;
+  overflow: hidden;
+  padding-top: 67.2897196262%;
+}
+.item-aan .avarta img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 0.4s all !important;
+}
+.item-aan .avarta img:hover {
+  transform: scale(1.05);
+}
+.item-aan .info {
+  padding: 35px 15px;
+  font-size: 20px;
+}
+.item-aan .info h3 a {
+  display: block;
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+.item-aan .info .desc {
+  margin-bottom: 35px;
+}
+.item-aan .btn-more a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: bold;
+  height: 50px;
+  border: 4px solid;
+  padding: 0 25px 3px 25px;
+  border-radius: 50px;
+}
+.item-aan .btn-more a img {
+  position: relative;
+  top: 2px;
+  margin-left: 15px;
+}
+
+.box-realisaties {
+  padding: 240px 0;
+}
+.box-realisaties .title {
+  margin-bottom: 115px;
+}
+
+.list-real {
+  margin-bottom: 100px;
+}
+
+.item-real .avarta {
+  position: relative;
+  padding-top: 100%;
+  overflow: hidden;
+}
+.item-real .avarta img {
+  transition: 0.4s all !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.item-real .avarta img:hover {
+  transform: scale(1.05);
+}
+
+.txt-overons {
+  font-size: 26px;
+  line-height: initial;
+}
+.txt-overons p {
+  margin-bottom: 30px;
+}
+.txt-overons p:Last-child {
+  margin-bottom: 0;
+}
+.txt-overons .desc {
+  margin-bottom: 45px;
+}
+
+.box-contact {
+  padding: 260px 0 220px 0;
+}
+.box-contact .title {
+  margin-bottom: 50px;
+}
+.box-contact .top {
+  line-height: initial;
+  font-size: 26px;
+  margin-bottom: 100px;
+}
+
+.frm-contact {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.frm-contact .item-frm {
+  margin-bottom: 35px;
+}
+.frm-contact .item-frm:last-child {
+  margin-bottom: 0;
+  margin-top: 100px;
+}
+.frm-contact .item-frm .row {
+  margin: 0 -25px;
+}
+.frm-contact .item-frm .row > div {
+  padding: 0 25px;
+}
+.frm-contact .item-frm .txt_field {
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid #232323;
+  padding: 0 30px 4px 30px;
+  font-size: 42px;
+}
+.frm-contact .item-frm .txt_field::placeholder {
+  color: #bcbcbc;
+}
+.frm-contact .item-frm textarea {
+  width: 100%;
+  border: 0;
+  border-bottom: 1px solid #232323;
+  padding: 4px 30px;
+  font-size: 42px;
+  height: 165px;
+  outline: none;
+}
+.frm-contact .item-frm textarea::placeholder {
+  color: #bcbcbc;
+}
+.frm-contact .item-frm .btn_field {
+  font-size: 23px;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  height: 70px;
+  border-radius: 70px;
+  padding: 0 30px 4px 30px;
+  border: 0;
+  background: #fab518;
+}
+.frm-contact .item-frm .btn_field img {
+  position: relative;
+  top: 3px;
+  margin-left: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
