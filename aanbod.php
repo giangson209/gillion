@@ -1,29 +1,12 @@
 <?php include 'header.php';?>
-<style>
-    .header-menu {
-        position: absolute;
-        top: 73px;
-        width: 100%;
-        z-index: 2;
-        background: transparent;
-    }
-</style>
 <main>
-    <seciton class="box-banner-gill">
-        <div class="container">
-            <div class="content-banner">
-                <div class="txt-banner text-center">
-                    <div class="avarta-banner"><img src="images/logo-banner.png" class="img-fluid" alt=""></div>
-                    <div class="desc">Een innovatieve projectontwikkelaar met een visie.</div>
-                    <div class="btn-main"><a href=""><span>Contacteer ons</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
-                </div>
-            </div>
-        </div>
-    </seciton>
-    <section class="box-aanbod">
+    <section class="detail-cate">
         <div class="container">
             <div class="title text-center">
-                <h2>Aanbod</h2>
+                <h2>Ons aanbod</h2>
+            </div>
+            <div class="desc-detail">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
             </div>
             <div class="tab-aanbod">
                 <div class="tab-top">
@@ -94,62 +77,7 @@
             </div>
         </div>
     </section>
-    <section class="box-realisaties">
-        <div class="title text-center">
-            <div class="container">
-                <h2>Realisaties</h2>
-            </div>
-        </div>
-        <div class="list-real">
-            <div class="slide-real">
-                <div class="item-slide">
-                    <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-1.png" class="img-fluid w-100" alt=""></a></div>
-                    </div>
-                </div>
-                <div class="item-slide">
-                    <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-2.png" class="img-fluid w-100" alt=""></a></div>
-                    </div>
-                </div>
-                <div class="item-slide">
-                    <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-3.png" class="img-fluid w-100" alt=""></a></div>
-                    </div>
-                </div>
-                <div class="item-slide">
-                    <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-4.png" class="img-fluid w-100" alt=""></a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="btn-main text-center"><a href=""><span>Bekijk meer realisaties</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
-    </section>
-    <section class="box-over-ons">
-        <div class="container">
-            <div class="content-overons">
-                <div class="row align-items-center">
-                    <div class="col-md-6">
-                        <div class="avarta-over"><img src="images/avr-over.png" class="img-fluid" alt=""></div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="txt-overons">
-                            <div class="title">
-                                <h2>Over ons</h2>
-                            </div>
-                            <div class="desc">
-                                <p>Als innovatieve en ambitieuze projectontwikkelaar koopt, ontwikkelt en verkoopt Gillion Development unieke bouwsites in heel België. Dat doen wij als familiebedrijf intussen al meer dan 100 jaar, met de nodige bouwkundige knowhow door onze specifieke en uitgebreide expertise als aannemer. Een optimale groepssfeer en de oprechte inzet van onze medewerkers wordt bij Gillion Development hoog in het vaandel gedragen. </p>
-                                <p>Gillion Development staat als bouwexpert steevast voor een persoonlijke aanpak bij elk vastgoedproject, op een vernieuwende én realistische manier. Wij verenigen als projectontwikkelaar de visie van de architect met onze ambitie als promotor, met als ultieme doel 100% tevredenheid van de toekomstige koper.</p>
-                            </div>
-                            <div class="btn-main"><a href=""><span>Ontdek meer over Gillion</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="box-contact">
+    <section class="box-contact pt-0">
         <div class="container">
             <div class="title text-center">
                 <h2>Neem contact op</h2>

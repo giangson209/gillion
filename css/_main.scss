@@ -89,8 +89,10 @@
 			height: 100%;
 			object-fit: cover;
 			transition: .4s all !important;
+			opacity: 0.5;
 			&:hover {
 				transform: scale(1.05);
+				opacity: 1;
 			}
 		}
 	}
@@ -235,5 +237,144 @@
 				margin-left: 30px;
 			}
 		}
+	}
+}
+
+.contact-cate {
+	.maps {
+		display: flex;
+		align-items: center;
+		iframe {
+			width: 100%;
+			height: 600px;
+		}
+	}
+}
+.info-contact {
+	padding: 180px 0 230px 0;
+	margin: 0 auto;
+	max-width: 1170px;
+	.txt-contact {
+		max-width: 245px;
+	}
+}
+.content-contact {
+	margin-top: 100px;
+	ul {
+		list-style: none;
+		font-size: 24px;
+		li {
+			margin-bottom: 20px;
+			&:last-child {
+				margin-bottom: 0;
+			}
+			strong {
+				font-weight: bold;
+			}
+		}
+	}
+	h3 {
+		margin-bottom: 30px;
+	    font-weight: bold;
+	    font-size: 45px;
+	}
+}
+
+.form-contact {
+	.item-frm {
+		margin-bottom: 30px;
+		&:last-child {
+			margin-bottom: 0;
+		}
+		.row {
+			margin: 0 -8px;
+			>div {
+				padding: 0 8px;
+			}
+		}
+		.txt_field {
+			font-size: 24px;
+			border: 0;
+			border-bottom: 1px solid #333333;
+			width: 100%;
+			padding: 18px 0;
+			&::placeholder {
+				color: #cccccc;
+			}
+		}
+		textarea {
+			font-size: 24px;
+			border: 0;
+			border-bottom: 1px solid #333333;
+			width: 100%;
+			padding: 18px 0;
+			outline: none;
+			&::placeholder {
+				color: #cccccc;
+			}
+		}
+		.btn_field {
+			margin-top: 30px;
+			cursor: pointer;
+			height: 65px;
+			background: $yellow;
+			border: 0;
+			border-radius: 70px;
+			font-size: 23px;
+			font-weight: bold;
+			padding: 0 100px;
+			position: relative;
+			img {
+				position: absolute;
+			    top: calc(50% - 4px);
+			    right: 30px;
+			}
+		}
+	}
+}
+
+.desc-detail {
+	font-size: 26px;
+    max-width: 1380px;
+    margin: 0 auto;
+    line-height: 1.4;
+}
+
+.list-aan-detail {
+	padding: 200px 0;
+	.item-detail {
+		margin-bottom: 200px;
+		&:last-child {
+			margin-bottom: 0;
+		}
+		&:nth-child(2n) {
+			.col-md-6 {
+				&:last-child {
+					order: 1;
+				}
+				&:first-child {
+					order: 2;
+				}
+			}
+		}
+	}
+}
+
+.txt-detail {
+	max-width: 650px;
+    margin: 0 auto;
+    font-size: 26px;
+    .desc {
+    	padding: 40px 0;
+    }
+    h4 {
+    	font-size: 55px;
+    	font-weight: bold;
+    }
+}
+.detail-cate {
+	padding: 180px 0 0 0;
+	.tab-aanbod {
+		padding: 100px 0 275px 0;
 	}
 }
