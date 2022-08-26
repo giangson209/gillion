@@ -35,15 +35,15 @@
             <div class="container">
                 <div class="content-menu">
                     <div class="left">
-                        <div class="logo"><a href=""><img src="images/logo.png" class="img-fluid" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a></div>
                     </div>
                     <div class="right">
                         <div class="h-menu">
                             <ul>
-                                <li><a href="">Aanbod</a></li>
-                                <li><a href="">Realisaties</a></li>
-                                <li><a href="">Over ons</a></li>
-                                <li><a href="" class="h-contact">Contacteer ons <img src="images/arrow-right.png" class="img-fluid" alt=""></a></li>
+                                <li><a href="aanbod.php">Aanbod</a></li>
+                                <li><a href="realisaties.php">Realisaties</a></li>
+                                <li><a href="overons.php">Over ons</a></li>
+                                <li><a href="contact.php" class="h-contact">Contacteer ons <img src="images/arrow-right.png" class="img-fluid" alt=""></a></li>
                             </ul>
                         </div>
                     </div>

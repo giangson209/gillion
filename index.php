@@ -15,7 +15,7 @@
                 <div class="txt-banner text-center">
                     <div class="avarta-banner"><img src="images/logo-banner.png" class="img-fluid" alt=""></div>
                     <div class="desc">Een innovatieve projectontwikkelaar met een visie.</div>
-                    <div class="btn-main"><a href=""><span>Contacteer ons</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                    <div class="btn-main"><a href="contact.php"><span>Contacteer ons</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                 </div>
             </div>
         </div>
@@ -39,57 +39,210 @@
                         <div class="slide-aan">
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Dubrucq</a></h3>
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Willebroek</a></h3>
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-content" id="tab-2"></div>
-                    <div class="tab-content" id="tab-3"></div>
-                    <div class="tab-content" id="tab-4"></div>
+                    <div class="tab-content" id="tab-2">
+                        <div class="slide-aan">
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-content" id="tab-3">
+                        <div class="slide-aan">
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-content" id="tab-4">
+                        <div class="slide-aan">
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -104,27 +257,27 @@
             <div class="slide-real">
                 <div class="item-slide">
                     <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-1.png" class="img-fluid w-100" alt=""></a></div>
+                        <div class="avarta"><a href="real-detail.php"><img src="images/real-1.png" class="img-fluid w-100" alt=""></a></div>
                     </div>
                 </div>
                 <div class="item-slide">
                     <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-2.png" class="img-fluid w-100" alt=""></a></div>
+                        <div class="avarta"><a href="real-detail.php"><img src="images/real-2.png" class="img-fluid w-100" alt=""></a></div>
                     </div>
                 </div>
                 <div class="item-slide">
                     <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-3.png" class="img-fluid w-100" alt=""></a></div>
+                        <div class="avarta"><a href="real-detail.php"><img src="images/real-3.png" class="img-fluid w-100" alt=""></a></div>
                     </div>
                 </div>
                 <div class="item-slide">
                     <div class="item-real">
-                        <div class="avarta"><a href=""><img src="images/real-4.png" class="img-fluid w-100" alt=""></a></div>
+                        <div class="avarta"><a href="real-detail.php"><img src="images/real-4.png" class="img-fluid w-100" alt=""></a></div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="btn-main text-center"><a href=""><span>Bekijk meer realisaties</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+        <div class="btn-main text-center"><a href="realisaties.php"><span>Bekijk meer realisaties</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
     </section>
     <section class="box-over-ons">
         <div class="container">
@@ -142,7 +295,7 @@
                                 <p>Als innovatieve en ambitieuze projectontwikkelaar koopt, ontwikkelt en verkoopt Gillion Development unieke bouwsites in heel België. Dat doen wij als familiebedrijf intussen al meer dan 100 jaar, met de nodige bouwkundige knowhow door onze specifieke en uitgebreide expertise als aannemer. Een optimale groepssfeer en de oprechte inzet van onze medewerkers wordt bij Gillion Development hoog in het vaandel gedragen. </p>
                                 <p>Gillion Development staat als bouwexpert steevast voor een persoonlijke aanpak bij elk vastgoedproject, op een vernieuwende én realistische manier. Wij verenigen als projectontwikkelaar de visie van de architect met onze ambitie als promotor, met als ultieme doel 100% tevredenheid van de toekomstige koper.</p>
                             </div>
-                            <div class="btn-main"><a href=""><span>Ontdek meer over Gillion</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                            <div class="btn-main"><a href="overons.php"><span>Ontdek meer over Gillion</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                         </div>
                     </div>
                 </div>
