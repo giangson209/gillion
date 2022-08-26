@@ -12,7 +12,7 @@
                 </div>
                 <div class="content-contact">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-contact">
                             <div class="txt-contact">
                                 <h3>Contact</h3>
                                 <ul>
@@ -35,7 +35,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-contact">
                             <div class="form-contact">
                                 <div class="item-frm">
                                     <div class="row">

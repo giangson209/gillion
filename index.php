@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
-<style>
+<!-- <style>
     .header-menu {
         position: absolute;
         top: 73px;
@@ -7,7 +7,7 @@
         z-index: 2;
         background: transparent;
     }
-</style>
+</style> -->
 <main>
     <seciton class="box-banner-gill">
         <div class="container">
@@ -20,7 +20,10 @@
             </div>
         </div>
     </seciton>
-    <section class="box-aanbod">
+    <section class="box-scroll-icon text-center">
+        <a href="#aa-home"><img src="images/arrow-scroll.png" class="img-fluid" alt=""></a>
+    </section>
+    <section class="box-aanbod" id="aa-home">
         <div class="container">
             <div class="title text-center">
                 <h2>Aanbod</h2>

@@ -22,57 +22,210 @@
                         <div class="slide-aan">
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Dubrucq</a></h3>
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Willebroek</a></h3>
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item-slide">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-content" id="tab-2"></div>
-                    <div class="tab-content" id="tab-3"></div>
-                    <div class="tab-content" id="tab-4"></div>
+                    <div class="tab-content active" id="tab-2">
+                        <div class="slide-aan">
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-content active" id="tab-3">
+                        <div class="slide-aan">
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-content active" id="tab-4">
+                        <div class="slide-aan">
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Dubrucq</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Willebroek</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item-slide">
+                                <div class="item-aan">
+                                    <div class="avarta"><a href="aanbod-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="info text-center">
+                                        <h3><a href="aanbod-detail.php">Joseph II</a></h3>
+                                        <div class="desc">
+                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+                                        </div>
+                                        <div class="btn-more"><a href="aanbod-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

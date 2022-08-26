@@ -31,7 +31,20 @@
                 </div>
             </div>
         </div>
+        <div class="head-mobile d-none">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-6">
+                        <div class="logo"><a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a></div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-6 text-right">
+                        <div class="btn-bar"><a href="javascript:void(0)"><i class="fa fa-bars"></i></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="header-menu">
+            <div class="btn-close-menu d-none"><a href="javascript:void(0)">&times;</a></div>
             <div class="container">
                 <div class="content-menu">
                     <div class="left">

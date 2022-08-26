@@ -22,49 +22,49 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Dubrucq</a></h3>
+                                        <h3><a href="real-detail.php">Dubrucq</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Willebroek</a></h3>
+                                        <h3><a href="real-detail.php">Willebroek</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -74,49 +74,49 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Dubrucq</a></h3>
+                                        <h3><a href="real-detail.php">Dubrucq</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.phpreal-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.phpreal-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.phpreal-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.phpreal-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Willebroek</a></h3>
+                                        <h3><a href="real-detail.phpreal-detail.php">Willebroek</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.phpreal-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -126,49 +126,49 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Dubrucq</a></h3>
+                                        <h3><a href="real-detail.php">Dubrucq</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Willebroek</a></h3>
+                                        <h3><a href="real-detail.php">Willebroek</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -178,49 +178,49 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Dubrucq</a></h3>
+                                        <h3><a href="real-detail.php">Dubrucq</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-3.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-1.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Willebroek</a></h3>
+                                        <h3><a href="real-detail.php">Willebroek</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="item-aan">
-                                    <div class="avarta"><a href=""><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
+                                    <div class="avarta"><a href="real-detail.php"><img src="images/an-2.png" class="img-fluid w-100" alt=""></a></div>
                                     <div class="info text-center">
-                                        <h3><a href="">Joseph II</a></h3>
+                                        <h3><a href="real-detail.php">Joseph II</a></h3>
                                         <div class="desc">
                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                                         </div>
-                                        <div class="btn-more"><a href=""><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
+                                        <div class="btn-more"><a href="real-detail.php"><span>Meer infomatie</span><img src="images/arrow-right.png" class="img-fluid" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
